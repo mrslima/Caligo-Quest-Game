@@ -1,4 +1,4 @@
-# **Caligo Quest - Manual de Regras**
+# **Caligo Quest - Livro de Regras**
 
 [Online Doc](https://docs.google.com/document/d/12CZnrRnAaurQiv8yFggMpj0AO1s7Y4y9M8Hwr8RBGCw/edit?usp=sharing)
 
