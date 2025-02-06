@@ -1,5 +1,7 @@
 # **Caligo Quest - Manual de Regras**
 
+[Online Doc](https://docs.google.com/document/d/12CZnrRnAaurQiv8yFggMpj0AO1s7Y4y9M8Hwr8RBGCw/edit?usp=sharing)
+
 ## **1. Visão Geral**
 **Caligo Quest** é um jogo de exploração, estratégia e combate onde jogadores devem descobrir caminhos, enfrentar armadilhas e outros jogadores, além de coletar itens e a Chave do Portão para alcançar a vitória. O jogo se desenrola em um tabuleiro modular, criado dinamicamente conforme os jogadores avançam.
 
