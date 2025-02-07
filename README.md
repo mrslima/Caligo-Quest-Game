@@ -1,9 +1,14 @@
 # Caligo Quest
 
-Caligo Quest é um jogo de tabuleiro inspirado em Roguelite, onde você constrói o calabouço conforme avança, garantindo que cada partida seja sempre única e cheia de surpresas!
+Caligo Quest is a board game inspired by Roguelite mechanics, where you build the dungeon as you progress, ensuring that each game is always unique and full of surprises!
 
-A cada turno, explore o calabouço, colete itens exclusivos e enfrente outros jogadores em batalhas. O primeiro jogador a encontrar a Chave e escapar pela Porta vence (ou o último jogador sobrevivente se ninguém conseguir escapar).
+Each turn, explore the dungeon, collect exclusive items, and face other players in battles. The first player to find the Key and escape through the Gate wins (or the last surviving player if no one manages to escape).
 
-Você consegue encontrar a Chave e chegar à Porta primeiro?
+Can you find the Key and reach the Gate first?
 
-[Livro de Regras](https://github.com/mrslima/Caligo-Quest-Game/blob/c9907d7d61d2295caf1159f5977224ab0630c383/Livro%20De%20Regras.md)
+[Rulebook](https://github.com/mrslima/Caligo-Quest-Game/blob/main/Rulebook.md)
+
+<br><br>
+
+### Support It
+<p><i>Supporters will receive a copy of the game after its release</i></p> <a href="https://www.buymeacoffee.com/danidani" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 180px !important;" ></a>
