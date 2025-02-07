@@ -11,4 +11,4 @@ Can you find the Key and reach the Gate first?
 <br>
 
 ### Support It
-<p><i>Supporters will receive a copy of the game after its release</i></p> <a href="https://www.buymeacoffee.com/danidani" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 180px !important;" ></a>
+> <p><i>Supporters will receive a copy of the game after its release</i></p> <a href="https://www.buymeacoffee.com/danidani" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 180px !important;" ></a>
